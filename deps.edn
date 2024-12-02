@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps {org.clj-commons/claypoole {:mvn/version "1.2.2"}}}
